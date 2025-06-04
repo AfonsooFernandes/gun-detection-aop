@@ -1,0 +1,5 @@
+train: data/custom_data/images/train
+val: data/custom_data/images/val
+
+nc: 1
+names: ['gun']
